@@ -24,4 +24,4 @@ Has several tabs connected to it:
 It selects a shipping method, calculates order total, and includes:
 - Order status
 - Metadata such as timestamp, specific flags, etc.
-![](./img/img-00.png)
+![](./img/img-01.png)
