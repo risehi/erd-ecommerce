@@ -1,3 +1,6 @@
+***The documentation for this ERD diagram is in early stagest of develoipment, pelase check again later.***
+
+
 #### site_user
 Authentication can be delegated to a separate tab/service.  
 User has:
