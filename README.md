@@ -1,4 +1,4 @@
-***The documentation for this ERD diagram is in early stagest of develoipment, pelase check again later.***
+***The documentation for this ERD diagram is in early stagest of writing, pelase check again later.***
 
 
 #### site_user
